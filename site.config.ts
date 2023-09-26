@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'nicedays',
-  domain: 'https://animated-platinum-5b5.notion.site/Technical-article-515cedd4bd8c4e3bbc630dd5fb067cc4?pvs=4',
+  domain: 'https://nicedays.notion.site/Technical-article-515cedd4bd8c4e3bbc630dd5fb067cc4?pvs=4',
   author: 'nicedays',
 
   // open graph metadata (optional)
