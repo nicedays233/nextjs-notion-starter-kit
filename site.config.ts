@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'nicedays',
-  github: 'https://github.com/nicedays233',
+  github: 'nicedays233',
   linkedin: 'nicedays',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
