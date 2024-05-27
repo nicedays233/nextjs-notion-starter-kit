@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: 'nicedays',
   github: 'nicedays233',
-  linkedin: 'nicedays',
+  linkedin: 'yanwen-wu-a05a8225a',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
