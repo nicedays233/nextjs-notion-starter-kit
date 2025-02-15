@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '370051d60ecf4f66a4ccff886586bcb4',
+  rootNotionPageId: '19b7293c368880fe8d24f9419bfecd96',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'nicedays',
-  domain: 'https://nicedays.notion.site/IIT-370051d60ecf4f66a4ccff886586bcb4?pvs=4',
+  domain: 'https://nicedays.notion.site/Chicago-Furniture-Smart-Solution-19b7293c368880fe8d24f9419bfecd96',
   author: 'nicedays',
 
   // open graph metadata (optional)
